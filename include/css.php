@@ -13,7 +13,6 @@
       type="font/woff2">
 <link as="font" crossorigin="" href="app/web/fonts/rubik-v11-latin-500.woff2" rel="preload"
       type="font/woff2">
-<link crossorigin="use-credentials" href="/manifest.json" rel="manifest">
 <link href="app/web/img/brand/icon-192x192.png" rel="apple-touch-icon">
 <meta content="#FFFFFF" name="theme-color">
 <style>
