@@ -10649,11 +10649,11 @@ a.window-holder:hover {
 }
 
 .no-webp .footer-logo {
-    background-image: url(https://www.vevs.com/app/web/img/site/logo.png)
+    background-image: url(app/web/img/site/logo.png)
 }
 
 .webp .footer-logo {
-    background-image: url(https://www.vevs.com/app/web/img/site/logo.webp)
+    background-image: url(app/web/img/site/logo.webp)
 }
 
 .started-aside-secondary {
