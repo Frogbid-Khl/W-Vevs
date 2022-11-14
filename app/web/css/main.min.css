@@ -1,3 +1,61 @@
+@font-face {
+    font-family: 'Raleway';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+    url('app/web/fonts/raleway-v18-latin-300.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('app/web/fonts/raleway-v18-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+    url('app/web/fonts/raleway-v18-latin-500.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+    url('app/web/fonts/raleway-v18-latin-700.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+    url('app/web/fonts/rubik-v11-latin-300.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+    url('app/web/fonts/rubik-v11-latin-500.woff2') format('woff2');
+}
+
+.dropdown-menu{
+    left: unset !important;
+}
+
 .blog-post-image, .news-item-image {
     max-height: 154px;
     overflow: hidden
@@ -8575,7 +8633,7 @@ a:hover .ico-widget-questions, li.active .ico-widget-questions {
 
 .wrapper {
     min-height: 100%;
-    margin-bottom: -700px;
+    margin-bottom: -550px;
     overflow-x: hidden
 }
 
@@ -8584,7 +8642,7 @@ a:hover .ico-widget-questions, li.active .ico-widget-questions {
 }
 
 .push, footer {
-    height: 700px
+    height: 550px
 }
 
 .footer-mini, .push-mini {
@@ -8625,7 +8683,7 @@ footer {
 }
 
 .footer-creds {
-    padding: 65px 0;
+    padding: 65px 10px 0;
     border-top: 1px solid rgba(255, 255, 255, .1)
 }
 
